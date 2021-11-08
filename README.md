@@ -145,6 +145,9 @@ linka seu projeto local com o GitHub
 * `git push origin` nomeDaBranch
 subir seu projeto local para o GitHub (nomeDaBranch la dentro do GitHub)
 
+* `git pull origin` nomeDaBranch
+baixa do GitHub para o seu repositorio local
+
 ## Nano
 
 * CTRL+X
