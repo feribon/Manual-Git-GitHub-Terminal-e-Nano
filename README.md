@@ -1,4 +1,4 @@
-# Meu manual de Git, GitHub e Terminal!
+# Meu manual de Git, GitHub, Terminal e Nano!
 
 ## Terminal
 
@@ -133,6 +133,18 @@ deleta a branch
 * `git checkout -b` nomeDaBranch
 cria e ja muda para a branch
 
+* `git merge` nomeDaBranch
+voce incorpora a branch acima na sua atual
+
+* `git clone` https://github.com/facebook/create-react-app.git
+clona um projeto do GitHub para sua maquina
+
+* `git remote add origin` https://github.com/feribon/Manual-Git-GitHub-Terminal-e-Nano.git
+linka seu projeto local com o GitHub
+
+* `git push origin` nomeDaBranch
+subir seu projeto local para o GitHub
+
 ## Nano
 
 * CTRL+X
@@ -173,4 +185,14 @@ mostra a ajuda do Nano.
 
 * CTRL+/
 e depois insira o n° da linha que deseja ir.
+
+## GitHub
+
+* Criar repositorio
+* * escolher nome
+* * descrição
+* * publico ou privado
+* * incluir README.md ou nao
+
+
 
