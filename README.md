@@ -67,6 +67,9 @@ configura seu nome de usuario no git (aparece em todo commit que voce fizer)
 * `git config --global user.email` "felipe.gribon@hotmail.com"
 configura seu email de usuario no git (aparece em todo commit que voce fizer)
 
+* `git config --global core.editor` "nano"
+configura o editor para abrir pelo terminal (util no `git commit --amend`)
+
 * `git config --list`
 lista as configurações do seu git
 
@@ -105,4 +108,48 @@ mostras as mudanças somente deste arquivo
 
 * `git diff --name-only`
 mostra uma lista com os arquivos que tem diferenças
+
+* `git commit --amend`
+edita o commit que voce esta, se voce nao add o arquivo, voce consegue alterar somente a mensagem
+
+## Nano
+
+* CTRL+X
+Sai do editor.
+
+* CTRL+O
+Salva o arquivo.
+
+* CTRL+R
+Ler um arquivo em seu arquivo de trabalho atual.
+
+* CTRL+C
+Mostra a posição atual do cursor.
+
+* CTRL+K
+recorta o texto.
+
+* CTRL+U
+cola o texto.
+
+* CTRL+S
+Salva o arquivo e continua trabalhando.
+
+* CTRL+T
+verifica a ortografia do seu texto.
+
+* CTRL+W
+faz uma busca no texto.
+
+* CTRL+A
+leva o cursor para o início da linha.
+
+* CTRL+E
+leva o cursor para o fim da linha.
+
+* CTRL+G
+mostra a ajuda do Nano.
+
+* CTRL+/
+e depois insira o n° da linha que deseja ir.
 
