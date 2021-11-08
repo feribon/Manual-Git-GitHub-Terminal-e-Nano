@@ -112,6 +112,27 @@ mostra uma lista com os arquivos que tem diferenças
 * `git commit --amend`
 edita o commit que voce esta, se voce nao add o arquivo, voce consegue alterar somente a mensagem
 
+* `git reset HEAD` arquivo.txt
+tira o arquivo do temporario
+
+* `git checkout --` arquivo.txt
+remove a alteração feita no arquivo (tipo um ctrl+z)
+
+* `git branch`
+lista as branches
+
+* `git branch` nomeDaBranch
+cria uma branch
+
+* `git checkout` nomeDaBranch
+muda de branch
+
+* `git branch -D` nomeDaBranch
+deleta a branch
+
+* `git checkout -b` nomeDaBranch
+cria e ja muda para a branch
+
 ## Nano
 
 * CTRL+X
