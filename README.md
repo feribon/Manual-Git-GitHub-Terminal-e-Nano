@@ -143,7 +143,7 @@ clona um projeto do GitHub/gitlab/bitbucket para sua maquina
 linka seu projeto local com o GitHub
 
 * `git push origin` nomeDaBranch
-subir seu projeto local para o GitHub
+subir seu projeto local para o GitHub (nomeDaBranch la dentro do GitHub)
 
 ## Nano
 
