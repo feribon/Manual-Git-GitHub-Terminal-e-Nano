@@ -81,3 +81,8 @@ adiciona todos os arquivos na area temporaria
 
 * `git commit -m` "breve descrição"
 salva os arquivos com o nome acima
+
+* `git status`
+mostra como seu arquivo esta (se foi adicionado na area temporaria ou se foi comitado)
+
+* 
