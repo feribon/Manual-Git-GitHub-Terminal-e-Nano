@@ -1,4 +1,4 @@
-# Meu manual de Git GitHub e Terminal
+# Meu manual de Git, GitHub e Terminal!
 
 ## Terminal
 
@@ -58,3 +58,26 @@ ele filtra no history tudo o que contenha 'palavra'
 
 * `exit`
 fecha o terminal
+
+## Git
+
+* `git config --global user.name` "Felipe Grassi Ribon"
+configura seu nome de usuario no git (aparece em todo commit que voce fizer)
+
+* `git config --global user.email` "felipe.gribon@hotmail.com"
+configura seu email de usuario no git (aparece em todo commit que voce fizer)
+
+* `git config --list`
+lista as configurações do seu git
+
+* `git init`
+inicializa o repositorio local
+
+* `git add` arquivo.txt
+adiciona o arquivo na area temporaria
+
+* `git add .`
+adiciona todos os arquivos na area temporaria
+
+* `git commit -m` "breve descrição"
+salva os arquivos com o nome acima
