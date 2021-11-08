@@ -143,8 +143,10 @@ clona um projeto do GitHub/gitlab/bitbucket para sua maquina
 linka seu projeto local com o GitHub
 
 * `git push origin` nomeDaBranch
-subir seu projeto local para o GitHub (nomeDaBranch la dentro do GitHub)
+subir seu projeto local para o GitHub
 
+* `git pull origin` nomeDaBranch
+baixa do GitHub para seu repositorio local
 ## Nano
 
 * CTRL+X
@@ -193,6 +195,10 @@ e depois insira o n° da linha que deseja ir.
 * * descrição
 * * publico ou privado
 * * incluir README.md ou nao
+
+* Arquivos que voce nao queira subir
+* * crie .gitignore na sua pasta
+* * coloque o nome dos arquivos que voce nao queira que suba para o GitHub dentro do arquivo .gitignore
 
 
 
