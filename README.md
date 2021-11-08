@@ -85,4 +85,24 @@ salva os arquivos com o nome acima
 * `git status`
 mostra como seu arquivo esta (se foi adicionado na area temporaria ou se foi comitado)
 
-* 
+* `git log`
+mostra o historico dos commits
+
+* `git log --pretty=oneline`
+mostra o historico dos commits com codigo e descrição apenas
+
+* `git log --pretty=oneline` -1
+menos 1 mostra o ultimo, menos 2 penultimo ...
+
+* `git log --stat`
+mostra quantas mudanças que tiveram nos commits
+
+* `git diff`
+mostra as mudanças da area temporaria
+
+* `git diff` arquivo.txt
+mostras as mudanças somente deste arquivo
+
+* `git diff --name-only`
+mostra uma lista com os arquivos que tem diferenças
+
