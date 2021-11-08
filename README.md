@@ -137,7 +137,7 @@ cria e ja muda para a branch
 voce incorpora a branch acima na sua atual
 
 * `git clone` https://github.com/facebook/create-react-app.git
-clona um projeto do GitHub para sua maquina
+clona um projeto do GitHub/gitlab/bitbucket para sua maquina
 
 * `git remote add origin` https://github.com/feribon/Manual-Git-GitHub-Terminal-e-Nano.git
 linka seu projeto local com o GitHub
